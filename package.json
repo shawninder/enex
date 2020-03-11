@@ -1,6 +1,6 @@
 {
   "name": "enex",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Extracts the page ID (from the url) and page name (from the page source) from an Engaging Networks page or pages.",
   "main": "index.js",
   "bin": {
