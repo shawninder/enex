@@ -4,7 +4,7 @@ Extracts the page ID (from the url) and page name (from the page source) from an
 
 ## Usage
 
-`npm run enex -- --help`
+`npx https://github.com/shawninder/enex.git --help`
 
 ## Using this repository
 
